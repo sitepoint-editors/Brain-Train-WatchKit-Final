@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2F305939-6873-40DE-93C6-12F56738FF75</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BrainEnhancer_test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB73A1C7CDD3552F152C5E37A0CBCC3D0CE1A5E3</key>
+		<string>https://github.com/sitepoint-editors/SitePoint-Mobile-Channel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Articles/Brett Romero/article2/source code final/BrainEnhancer_test.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB73A1C7CDD3552F152C5E37A0CBCC3D0CE1A5E3</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sitepoint-editors/SitePoint-Mobile-Channel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB73A1C7CDD3552F152C5E37A0CBCC3D0CE1A5E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB73A1C7CDD3552F152C5E37A0CBCC3D0CE1A5E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SitePoint-Mobile-Channel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
